@@ -76,7 +76,7 @@ Being a full-stack allows me to not only develop client-facing apps and websites
 
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nicolarson)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=nicolarson&row=1&column=6)
 
 
 
