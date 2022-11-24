@@ -11,15 +11,20 @@ I'm Nicolas, Webv Developer.
 <a href="https://codepen.com/nicolarson" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-  <br/>  
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning all the thing I find interesting and fun. 
+ <br/> <br/>
+  
+  
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning Vim ^^ 
+- 👯 I’m looking to collaborate on projects that will increase my skills
+- 💬 Ask me about database, front-end, back-end, barbecue, judo …
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/nicolas-yang-dev) 
+- 😄 Pronouns: Larson ![Nicky Larson](https://i.imgur.com/uHpijRW.png)
+
 
 ### Glad to see you here!  
 I’m a developer who has turned years of freelancing into a full-time career. 
 Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-<br/>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -58,17 +63,14 @@ Being a full-stack allows me to not only develop client-facing apps and websites
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicolarson&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolarson&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolarson&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nicolarson&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
