@@ -1,6 +1,6 @@
 ## Hey! 👋  
 Welcome to my page!
-I'm Nicolas, Webv Developer. 
+I'm Nicolas, Web Developer. 
 
 <a href="https://github.com/nicolarson" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
