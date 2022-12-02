@@ -14,8 +14,8 @@ I'm Nicolas, Web Developer.
  <br/> <br/>
   
   
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Vim ^^ 
+- 🔭 I’m currently working on an operation management software [GESTION DiRVED](https://github.com/NicoLarson/gestion-dirved)
+- 🌱 I’m currently learning [electronjs](https://www.electronjs.org/) 
 - 👯 I’m looking to collaborate on projects that will increase my skills
 - 💬 Ask me about database, front-end, back-end, barbecue, judo …
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/nicolas-yang-dev) 
